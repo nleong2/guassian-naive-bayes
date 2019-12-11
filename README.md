@@ -1,4 +1,4 @@
-# Naive Bayes Classification
+# Spam Classification using Guassian Naive Bayes
 
 ## Introduction
 This program was used to classify emails that are spam and not spam.
